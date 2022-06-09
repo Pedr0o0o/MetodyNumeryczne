@@ -1,0 +1,3 @@
+﻿  Źródło.cpp
+C:\Users\piotr\source\repos\semestr 4\kwadraty\kwadraty\Źródło.cpp(114,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  kwadraty.vcxproj -> C:\Users\piotr\source\repos\semestr 4\kwadraty\Debug\kwadraty.exe
